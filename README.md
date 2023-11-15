@@ -33,8 +33,7 @@ Program to implement the SVM For Spam Mail Detection..
 Developed by: PRIYANKA.A
 RegisterNumber:212222230113
 ```
-```
-
+```py
 import chardet
 file='/content/spam.csv'
 with open(file,'rb') as rawdata:
