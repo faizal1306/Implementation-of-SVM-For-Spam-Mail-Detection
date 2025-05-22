@@ -30,8 +30,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ## Program:
 ```
 Program to implement the SVM For Spam Mail Detection..
-Developed by: PRIYANKA.A
-RegisterNumber:212222230113
+Developed by: M Mohamed Faizal
+RegisterNumber:212223243002
 ```
 ```py
 import chardet
